@@ -1,3 +1,5 @@
+Calculator Link: https://jayavardhan56.github.io/Simple-Calculator/
+
 🔢 Simple Calculator
 A basic web-based calculator built using HTML, CSS, and JavaScript. This was one of my first projects, designed to perform simple arithmetic operations like addition, subtraction, multiplication, and division.
 
