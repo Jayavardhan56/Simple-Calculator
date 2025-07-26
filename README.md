@@ -31,9 +31,12 @@ Try It Out: Use the buttons to enter numbers and operations, then press = to see
 📂 Project Structure
 simple-calculator/
 │
-├── index.html        # Main HTML file
-├── style.css         # Calculator styling
-└── script.js         # Logic and functionality
+
+├── index.html 
+
+├── style.css    
+
+└── script.js        
 
 🧠 What I Learned
 
