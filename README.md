@@ -45,6 +45,10 @@ Styling components using CSS
 DOM manipulation and event handling with JavaScript
 Debugging basic logic errors in JS
 
+Future Scope:
+
+We can also change the tech stack and also include various scientific symbols.
+
 📸 Screenshot
 ![image](https://github.com/user-attachments/assets/0ff8f13e-0da6-4d22-8908-b3b1bd4443d3)
 
